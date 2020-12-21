@@ -1,1 +1,1 @@
-worker: python BotHomeTask.py
+worker: python dd.py
