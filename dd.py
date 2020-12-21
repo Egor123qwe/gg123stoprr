@@ -8,7 +8,7 @@ URL = 'https://znaj.by/Account/LogOnInternalWithIpay'
 URL_2 = 'https://znaj.by/Client/PupilDiary?pupilId=1423890&yearStart=2020'
 user = fake_useragent.UserAgent().random
 name = 'LSDANDSDL'  #логин
-Passwords = open('D:\dot\passwords.txt', 'r')
+Passwords = open('passwords.txt', 'r')
 
 
 Num = 0
